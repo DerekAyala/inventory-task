@@ -47,7 +47,8 @@ Run the application using the following command:
 mvn spring-boot:run
 ```
 ## SonarQube
-![image](https://github.com/DerekAyala/inventory-task/assets/89038565/284bc1e4-5e67-4536-8c62-48dfcd5d49cf)
-![image](https://github.com/DerekAyala/inventory-task/assets/89038565/5b016778-7c25-4580-a617-ac92c251ff82)
+![image](https://github.com/DerekAyala/inventory-task/assets/89038565/6bd1f9ef-69b5-4ee5-a55c-affce3bfbf49)
+![image](https://github.com/DerekAyala/inventory-task/assets/89038565/ad91f57e-4887-42ec-abeb-fa4985939e93)
+
 
 
